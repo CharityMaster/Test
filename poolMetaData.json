@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "TestPoolPool",
+"description": "My pool description",
+"ticker": "TPP",
+"homepage": "https://myadapoolnamerocks.com"
+}
+EOF
